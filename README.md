@@ -17,5 +17,5 @@ npx expo start
 Now enjoy using the app and customising it to fit your needs.
 ## my-app
 The purpose of this app was to build the program and demonstrate that it runs while changing the text displayed in the middle of the screen. The output is show below:
-![Alt text](https://github.com/AndrewFelton23/Expo_app/blob/d1676b638ce58735c8ceaf7cf1bfd65522006155/Resources/myapp.png?raw=true "Optional Title")
+![my app](<img src= "https://github.com/AndrewFelton23/Expo_app/blob/d1676b638ce58735c8ceaf7cf1bfd65522006155/Resources/myapp.png" height="60" width="60" >?raw=true "my-app")
 

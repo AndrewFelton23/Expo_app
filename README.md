@@ -15,4 +15,4 @@ start the app by entering:
 npx expo start 
 ```
 Now enjoy using the app and customising it to fit your needs.# Expo_app
-# Expo_app
+

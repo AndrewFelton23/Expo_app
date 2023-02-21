@@ -17,5 +17,5 @@ npx expo start
 Now enjoy using the app and customising it to fit your needs.
 ## my-app
 The purpose of this app was to build the program and demonstrate that it runs while changing the text displayed in the middle of the screen. The output is show below:
-![Alt text](https://github.com/AndrewFelton23/Expo_app/blob/e02c5f8f547fc371ebd3a572975a90972e5b7eb4/Resources/Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-21 at 10.11.22.png?raw=true "Optional Title")
+![Alt text](https://github.com/AndrewFelton23/Expo_app/blob/d1676b638ce58735c8ceaf7cf1bfd65522006155/Resources/myapp.png?raw=true "Optional Title")
 

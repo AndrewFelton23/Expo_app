@@ -14,6 +14,6 @@ start the app by entering:
 ```
 npx expo start 
 ```
-Now enjoy using the app and customising it to fit your needs.
+Now enjoy using the app and customising it to fit your needs.xs
 
 

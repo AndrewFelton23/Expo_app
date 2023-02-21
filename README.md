@@ -10,6 +10,10 @@ then cd into the directory
 ```
 cd my-first-app
 ```
+In order to run the app on the web, dependencies must be installed by running the following commands:
+```
+npx expo install react-dom react-native-web @expo/webpack-config
+```
 start the app by entering:
 ```
 npx expo start 

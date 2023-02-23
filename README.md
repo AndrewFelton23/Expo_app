@@ -43,3 +43,11 @@ src="https://github.com/AndrewFelton23/Expo_app/blob/d1676b638ce58735c8ceaf7cf1b
 </p>
 
 ## PhotoDisplay
+
+The purpose of this app was to build a program that shows an image and two buttons with different styles. The output is show below:
+
+<p
+align="center">
+<img
+src="https://github.com/AndrewFelton23/Expo_app/blob/34fa38947c918595d1afc1f7465dbff67c59c459/Resources/PhotoDisplay.png" height="699" width="322.5">
+</p>

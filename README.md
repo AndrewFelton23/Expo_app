@@ -10,13 +10,11 @@ To create a new app open a new terminal and enter the follow:
 
 ```terminal
 npx create-expo-app my-first-app
-
 ```
 
 then cd into the directory
 
 ```terminal
-
 cd my-first-app
 ```
 

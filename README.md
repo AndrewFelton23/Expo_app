@@ -51,3 +51,15 @@ align="center">
 <img
 src="https://github.com/AndrewFelton23/Expo_app/blob/34fa38947c918595d1afc1f7465dbff67c59c459/Resources/PhotoDisplay.png" height="699" width="322.5">
 </p>
+
+## ReactNative_Navigation
+
+### stack-app
+
+The purpose of this app was to build a program that navigates between screens using the react native stack:
+
+<p
+align="center">
+<img
+src="https://github.com/AndrewFelton23/Expo_app/blob/34fa38947c918595d1afc1f7465dbff67c59c459/Resources/PhotoDisplay.png" height="699" width="322.5">
+</p>

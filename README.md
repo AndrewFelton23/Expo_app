@@ -61,5 +61,7 @@ The purpose of this app was to build a program that navigates between screens us
 <p
 align="center">
 <img
-src="https://github.com/AndrewFelton23/Expo_app/blob/34fa38947c918595d1afc1f7465dbff67c59c459/Resources/PhotoDisplay.png" height="699" width="322.5">
+src="https://github.com/AndrewFelton23/Expo_app/blob/76233387e99fc7e9c97b30aedf673d083ee52b15/Resources/stack-app1.png" height="699" width="322.5">
+<img
+src="https://github.com/AndrewFelton23/Expo_app/blob/76233387e99fc7e9c97b30aedf673d083ee52b15/Resources/stack-app2.png" height="699" width="322.5">
 </p>

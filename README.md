@@ -65,3 +65,77 @@ src="https://github.com/AndrewFelton23/Expo_app/blob/76233387e99fc7e9c97b30aedf6
 <img
 src="https://github.com/AndrewFelton23/Expo_app/blob/76233387e99fc7e9c97b30aedf673d083ee52b15/Resources/stack-app2.png" height="699" width="322.5">
 </p>
+
+To create this create a new file and open it in vscode, Install Expo CLI by typing the following in the terminal:
+
+```terminal
+npm install -g expo-cli
+```
+
+Create React Native Project
+
+```terminal
+expo init <app-name>
+```
+
+then cd into the folder that you created
+
+```terminal
+cd <app-name>
+```
+
+install react navigation
+
+```terminal
+npm install @react-navigation/native
+```
+
+Install Stack Navigation
+
+```terminal
+npm install @react-navigation/native-stack
+```
+
+start program
+
+```terminal
+npx expo start
+```
+
+### drawer
+
+The purpose of this app was to build a program that navigates between screens using the react native drawer:
+
+```terminal
+npm install -g expo-cli
+```
+
+Create React Native Project
+
+```terminal
+expo init <app-name>
+```
+
+then cd into the folder that you created
+
+```terminal
+cd <app-name>
+```
+
+install react navigation
+
+```terminal
+npm install @react-navigation/native
+```
+
+Install Stack Navigation
+
+```terminal
+npm install @react-navigation/drawer
+```
+
+start program
+
+```terminal
+npx expo start
+```

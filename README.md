@@ -102,9 +102,21 @@ start program
 npx expo start
 ```
 
-### drawer
+### drawer-app
 
 The purpose of this app was to build a program that navigates between screens using the react native drawer:
+
+<p
+align="center">
+<img
+src="https://github.com/AndrewFelton23/Expo_app/blob/7d7f2df10a2564c2d0951bb86818a3c070257c1c/Resources/drawer-app1.png" height="699" width="322.5">
+<img
+src="https://github.com/AndrewFelton23/Expo_app/blob/7d7f2df10a2564c2d0951bb86818a3c070257c1c/Resources/drawer-app2.png" height="699" width="322.5">
+<img
+src="https://github.com/AndrewFelton23/Expo_app/blob/7d7f2df10a2564c2d0951bb86818a3c070257c1c/Resources/drawer-app3.png" height="699" width="322.5">
+</p>
+
+To create this create a new file and open it in vscode, Install Expo CLI by typing the following in the terminal:
 
 ```terminal
 npm install -g expo-cli
@@ -125,13 +137,25 @@ cd <app-name>
 install react navigation
 
 ```terminal
-npm install @react-navigation/native
+yarn add @react-navigation/native
 ```
 
-Install Stack Navigation
+install dependencies
 
 ```terminal
-npm install @react-navigation/drawer
+expo install react-native-screens react-native-safe-area-context
+```
+
+Install drawer Navigation
+
+```terminal
+yarn add @react-navigation/drawer 
+```
+
+Install drawer Navigation dependencies
+
+```terminal
+yarn add react-native-gesture-handler react-native-reanimated  
 ```
 
 start program

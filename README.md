@@ -164,7 +164,7 @@ start program
 npx expo start
 ```
 
-To create this using npm. Create a new file and open it in vscode, Install Expo CLI by typing the following in the terminal:
+Alternatively to create this using npm. Create a new file and open it in vscode, Install Expo CLI by typing the following in the terminal:
 
 ```terminal
 npm install -g expo-cli

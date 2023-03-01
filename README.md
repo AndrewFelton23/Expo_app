@@ -128,10 +128,16 @@ install react navigation
 npm install @react-navigation/native
 ```
 
-Install Stack Navigation
+Install drawer Navigation
 
 ```terminal
 npm install @react-navigation/drawer
+```
+
+Install Dependencies (For Drawer Navigation)
+
+```terminal
+expo install react-native-gesture-handler react-native-reanimated
 ```
 
 start program

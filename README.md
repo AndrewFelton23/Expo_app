@@ -131,7 +131,7 @@ npm install @react-navigation/native
 Install Stack Navigation
 
 ```terminal
-npm install @react-navigation/native-stack
+npm install @react-navigation/drawer
 ```
 
 start program

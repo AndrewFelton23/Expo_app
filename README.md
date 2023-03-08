@@ -223,5 +223,5 @@ npm install -g expo-cli
 Create React Native Project
 
 ```terminal
-expo init <app-name> --npm
+expo init <app-name> 
 ```

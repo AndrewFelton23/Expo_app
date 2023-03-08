@@ -211,3 +211,17 @@ start program
 ```terminal
 npx expo start
 ```
+
+## login-test
+
+The purpose of this app is to build a program that navigates between a login screen and a home screen:
+
+```terminal
+npm install -g expo-cli
+```
+
+Create React Native Project
+
+```terminal
+expo init <app-name> --npm
+```

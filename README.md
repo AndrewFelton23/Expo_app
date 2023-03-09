@@ -225,3 +225,9 @@ Create React Native Project
 ```terminal
 expo init <app-name> 
 ```
+
+Next create the components, screens and .prettierrc files and directories. Install styling for components and expo constants
+
+```terminal
+expo install formik styled-components expo-constants
+```
